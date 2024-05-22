@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs"
+  contactDetails:
+    name: "QA Lead"
+    email: "john@Eazybank.com"
+  onCallSupport:
+    -(555)555-1234,
+    -(666)555-1234
