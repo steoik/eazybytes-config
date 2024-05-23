@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related local APIs"
   contactDetails:
-    name: "QA Leaddddd"
+    name: "QA Leadddd"
     email: "{cipher}139f048c2d856e6d890ffa6b7c08662db590635b610538f3fdc206155224ff9e6bd8f41bc1ed39c759061491e0431114"
   onCallSupport:
     -(555)555-1234,
